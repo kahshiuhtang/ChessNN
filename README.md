@@ -49,4 +49,16 @@ Tigran Petrosian
 
 Bobby Fischer
 
-These players do not have a similar playstyle but instead excel in different aspects of the game. I am interested to see how the
+These players do not have a similar playstyle but instead excel in different aspects of the game. I am interested to see how the NN will learn from them
+
+<em> Implementation </em>
+
+Things that an engine must be able to "comprehend":
+
+- Pieces & Material
+
+- Position, should look in 2x2 to 8x8 windows
+
+- Attacking & Defending Pieces/Squares
+
+- Opening/Endgame
